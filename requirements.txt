@@ -1,0 +1,8 @@
+flask
+flask-cors
+selenium
+gspread
+oauth2client
+requests
+gunicorn
+webdriver-manager
